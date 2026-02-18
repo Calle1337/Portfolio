@@ -1,48 +1,89 @@
 # Carl Nilsson
 
-Second-year Civilingenjör Informationsteknik student at KTH  
-Interested in quantitative finance, data systems, and algorithmic problem solving.
+Second-year Civilingenjör Informationsteknik student at KTH Royal Institute of Technology.  
+I am particularly interested in quantitative finance, data systems, and algorithmic problem solving, with a focus on structured and reliable implementations.
 
-📧 carlsaricnilsson@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/carlsaricnilsson/
-🔗 GitHub: https://github.com/Calle1337
+📧 Email: carlsaricnilsson@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/carlsaricnilsson/  
+🔗 GitHub: https://github.com/Calle1337  
 
 ---
 
-## Programming Languages
+## About Me
+
+I enjoy working on problems where mathematical reasoning translates directly into implementation.  
+Through my studies, I have developed a strong interest in algorithms, numerical methods, and structured data handling. I am especially motivated by building systems that behave predictably and are logically well-designed.
+
+Current GPA: 4.66
+
+---
+
+## Technical Background
+
 ### Python
-My preferred language
+Used for numerical computation, algorithm implementation, and data processing tasks.
+
 ### C
-Feels most reliable for mathematics and more "nitty-gritty" projects
-### HTML + CSS
-Fun to play around with, so I get some creative stimulus
+Experience with low-level programming and structured implementations in mathematically oriented coursework.
 
-## Experiences / Merits
-### SEB Risk Analyst
-#### 2024 April - 2025 January
-Worked for SEB Kort for private and business customers to make sure they're following strict KYC/AML Regulations. 
+### JavaScript (React + Redux)
+Frontend development and state management through coursework in Interactive Programming & Dynamic Web.
 
-
-### GPA: 4.66
-Enjoy school and learning
-
-
+### Tools
+- Git (version control and collaboration)
+- Basic SQL
+- Linux development environment
 
 ---
 
+## Experience
+
+### SEB – Risk Analyst (KYC/AML)  
+**April 2024 – January 2025**
+
+Worked within SEB Kort reviewing private and business customers to ensure compliance with KYC/AML regulations.  
+Handled structured financial data and performed judgment-based risk assessments in a regulated banking environment.  
+The role required analytical thinking, clarity in documentation, and structured decision-making.
+
+---
 
 ## Selected Projects
 
-### 1. SkinCare Application
-Product used to identify possible skin risks for different skin types, allergies and health statuses. Done as coursework for Interactive Programming & Dynamic Web.
+### 1. SkinCare Application  
+**Course project – Interactive Programming & Dynamic Web**
 
-Worked as Presenter developer, where I connected the model with the UI. Focused also on helper functions. 
+A web-based application designed to identify potential skin risks based on user input such as skin type, allergies, and health conditions.
 
-Written in JavaScript, with the Frameworks React and Redux.
+My contributions:
+- Worked as Presenter developer, connecting model logic with UI components  
+- Implemented helper functions for validation and data flow  
+- Contributed to state management using Redux  
 
+Technologies used:
+- JavaScript  
+- React  
+- Redux  
 
+---
 
-### 3. Numerical Methods Project
-Used Euler, Newtons, Fixed-point method and more to approximate curves given from data points. 
+### 2. Numerical Methods Project  
 
-Potential usecases are for quantitative trading modelling.
+Implemented and analyzed several numerical methods for approximating mathematical solutions, including:
+
+- Euler’s Method  
+- Newton’s Method  
+- Fixed-Point Iteration  
+
+The project focused on understanding convergence behavior and practical implementation of iterative algorithms.
+
+Technologies used:
+- Python  
+
+---
+
+## Contact
+
+If you would like to get in touch, feel free to contact me via email or LinkedIn.
+
+Email: carlsaricnilsson@gmail.com  
+LinkedIn: https://www.linkedin.com/in/carlsaricnilsson/
