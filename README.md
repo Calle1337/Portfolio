@@ -9,6 +9,18 @@ Interested in quantitative finance, data systems, and algorithmic problem solvin
 
 ---
 
+## Programming Languages
+### Python
+My preferred language
+### C
+Feels most reliable for mathematics and more "nitty-gritty" projects
+### HTML + CSS
+Fun to play around with, so I get some creative stimulus
+
+
+
+
+
 ## Selected Projects
 
 ### 1. SkinCare Application
