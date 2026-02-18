@@ -11,13 +11,16 @@ Interested in quantitative finance, data systems, and algorithmic problem solvin
 
 ## Selected Projects
 
-### 1. Risk Data Pipeline Prototype (Python)
-Short description...
-What I implemented...
-Technologies used...
+### 1. SkinCare Application
+Product used to identify possible skin risks for different skin types, allergies and health statuses. Done as coursework for Interactive Programming & Dynamic Web.
 
-### 2. Algorithm Implementation Project
-Short description...
+Worked as Presenter developer, where I connected the model with the UI. Focused also on helper functions. 
+
+Written in JavaScript, with the Frameworks React and Redux.
+
+
 
 ### 3. Numerical Methods Project
-Short description...
+Used Euler, Newtons, Fixed-point method and more to approximate curves given from data points. 
+
+Potential usecases are for quantitative trading modelling.
