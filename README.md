@@ -17,8 +17,18 @@ Feels most reliable for mathematics and more "nitty-gritty" projects
 ### HTML + CSS
 Fun to play around with, so I get some creative stimulus
 
+## Experiences / Merits
+### SEB Risk Analyst
+#### 2024 April - 2025 January
+Worked for SEB Kort for private and business customers to make sure they're following strict KYC/AML Regulations. 
 
 
+### GPA: 4.66
+Enjoy school and learning
+
+
+
+---
 
 
 ## Selected Projects
